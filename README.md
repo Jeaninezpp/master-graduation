@@ -33,6 +33,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
     - 提交论文评阅时间为 3 月22日、 4 月 6 日、 4 月 27 日， 
     - 6 月 10 日前完成学位论文答辩。
 
+## 关于论文
+- 开题 latex 模板：https://github.com/TomHeaven/nudtproposal
+- 毕业论文 latex 模板：https://github.com/liubenyuan/nudtpaper
+- 分类号查询：[http://www.ztflh.com/?c=33211](http://www.ztflh.com/?c=33211)
+- UDC查询：[http://www.udcsummary.info/php/index.php?lang=chi](http://www.udcsummary.info/php/index.php?lang=chi)
+
 ## 申请流程及材料
 ### 一、论文评阅申请阶段-提交材料
 - 纸质版-双面打印，`电话通知`中材料：
